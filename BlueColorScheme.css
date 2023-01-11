@@ -1,0 +1,25 @@
+.TopTitle {
+    text-align: center;
+    border-radius: 230px;
+    background-color: lightskyblue;
+    padding: 5px;
+}
+body {
+    background-color: paleturquoise;
+}
+h3 {
+    background-color: lightskyblue;
+    max-width: fit-content;
+    padding: 10px;
+    border-radius: 40px;
+}
+a {
+    color: blue;
+}
+a:hover {
+    color: rgba(0, 0, 255, 0.61);
+}
+table {
+    background: lightskyblue;
+    border-color: mediumblue;
+}
